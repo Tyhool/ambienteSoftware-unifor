@@ -6,16 +6,16 @@ public class App {
         // SomaDeConjunto soma = new SomaDeConjunto();
         // soma.somaDeConjunto();
 
-        // Fibonacci fibo = new Fibonacci();
-        // fibo.sequenciaFibonacci();
+         //Fibonacci fibo = new Fibonacci();
+         //fibo.sequenciaFibonacci();
 
-        // MDC max = new MDC();
-        // max.calculaMDC();
+        //MDC max = new MDC();
+        //max.calculaMDC();
 
-        // Ordenaçao QS = new Ordenaçao();
-        // QS.ordenacao();
+         Ordenaçao QS = new Ordenaçao();
+         QS.ordenacao();
 
-        Contagem cont = new Contagem();
-        cont.contagem();
+        //Contagem cont = new Contagem();
+        //cont.contagem();
     }
 }
