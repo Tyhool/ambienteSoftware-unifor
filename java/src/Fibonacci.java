@@ -17,6 +17,7 @@ public class Fibonacci {
             System.out.print(a + ", " + b);
         } else {
             System.out.println(a);
+            System.out.println("feito no VScode");
         }
     }
 }
